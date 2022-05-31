@@ -11,7 +11,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Technologies used](#technologies-used)
-
+- [Questions](#questions)
 
 ## Description
 
@@ -156,4 +156,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - bcrypt package
 - JWT Authentication
 - Heroku
+
+## Questions
+
+https://github.com/marycpriyanka
+
+For any addditional questions, reach me at marycpriyanka@gmail.com.
 
