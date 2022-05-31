@@ -30,7 +30,7 @@ Game Hub is an application created for users who are interested in games and all
 
 This program can be run through a browser using the link to the deployed application. Alternatively, to run this application locally you will need to:
 
-- Navigate to https://github.com/jennyrae818/game-hub
+- Navigate to https://github.com/marycpriyanka/game-hub
 - Clone the Github repository to recieve all of the files
 - Run `npm run install` in the command line of your terminal to set up all of the dependencies.
 - Populate the existing database items by running `npm run seed` in your terminal
@@ -125,7 +125,7 @@ See the deployed website at: https://game-hub-2022.herokuapp.com/</br>
 
 Developers | Github
 --- | ---
-Jenny Sacco | [jennysacco] (https://github.com/jennyrae818)
+Jenny Sacco | [jennysacco](https://github.com/jennyrae818)
 Priyanka Mary Christine | [marycpriyanka](https://github.com/marycpriyanka)
 Anthony Ditore | [aditore](https://github.com/aditore)
 Rebecca Yu |
