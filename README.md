@@ -10,7 +10,7 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](#features)
+- [Technologies used](#technologies-used)
 
 
 ## Description
